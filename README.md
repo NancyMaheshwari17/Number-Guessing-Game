@@ -48,16 +48,6 @@ number-guessing-game-python
 ├── pro2_data.txt
 └── README.md
 
-## How to Run the Project
-
-1. Install Python
-2. Download or clone the repository
-3. Run the program
-
-python project2.py
-
-4. Enter your guesses until you find the correct number.
-
 ## Example Output
 
 Enter your guess (0-100): 40
